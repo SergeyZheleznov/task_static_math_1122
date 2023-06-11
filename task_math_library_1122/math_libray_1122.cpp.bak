@@ -1,0 +1,7 @@
+#include <iostream>
+#include "math_library_1122.h"
+
+namespace task1122_Library
+{
+	std::string Greeter::get_greet(std::string name) { return name; };
+}
